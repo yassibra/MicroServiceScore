@@ -1,0 +1,12 @@
+{
+  "name": "microservicesscore",
+  "version": "1.0.0",
+  "description": "serveur score",
+  "main": "score.js",
+  "scripts": {
+    "dev": "nodemon score.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
